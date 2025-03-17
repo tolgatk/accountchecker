@@ -7,4 +7,4 @@
 - Single queries via BNB and ETH networks
 - Query with the same address via BNB and ETH networks
 - Batch query via BNB and ETH networks
-s
+
