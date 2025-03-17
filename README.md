@@ -1,4 +1,4 @@
-# Web 3 Crypto account ballance checker
+# Web 3 Crypto account balance checker
 
 # Currently supported ones
 - Single account query with BNB
